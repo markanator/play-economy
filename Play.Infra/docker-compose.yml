@@ -1,0 +1,22 @@
+version: "3.1"
+services:
+  mongo:
+    image: mongo
+    container_name: mongo
+    ports:
+      - 27018:27017
+    volumes:
+      - mongodbdata:/data/db
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: rabbitmq
+    ports:
+      - 5672:5672 # used by services
+      - 15672:15672 # Web UI
+    volumes:
+      - rabbitmqdata:/var/lib/rabbitmq
+    hostname: rabbitmq # how rbmq stores data
+
+volumes:
+  mongodbdata:
+  rabbitmqdata:
