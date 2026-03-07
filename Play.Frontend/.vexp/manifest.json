@@ -1,0 +1,39 @@
+{
+  "file_hashes": {
+    "public/config.js": "202790b59e46fceb79807859a5c6a74c2064edcd08827659e4ac8bbb3bbdfdd5",
+    "src/App.js": "91cbb91c63de400b689abbb165cf7135aa00fe6e01e79332374df7e90d26df9f",
+    "src/App.test.js": "030cba63bc46e2a3cfba06326a8d728d724b09cd14fd14352a5cce50d17038e2",
+    "src/components/Catalog.js": "8c3df058351ee98699fc97571665c8a88d49088500e20a45ff3a5da4ecc706d3",
+    "src/components/Constants.js": "b88411884d2cfebd8c93af086ac513138e0aa54fd2128dfcca21f072fd68a67e",
+    "src/components/Footer.js": "24d8db24d32fccb808ac79f89d1ca39d2edf52892fa396f2c5909438d8a31efb",
+    "src/components/Home.js": "96260216637cbf7de56fdd371810f90dc9e33cd199b21127e74674e08ed728a3",
+    "src/components/Inventory.js": "9b9ddb45ff90dd3fa38ce4389f30fabde9e9acdd969574589b5e16b43e5f91a3",
+    "src/components/Layout.js": "4b73b18c424730be580af95f5ca93903ff459215c2371654fea0c6c58e545ad6",
+    "src/components/NavMenu.js": "4219e24728db3c07e0e01f9f522f3e6f0d12531c0e0990956bd97f58cda377b8",
+    "src/components/Users.js": "8aa372cca26b2c5465861c958912a16a2effdcfd9da34e219dd36a03393c18d9",
+    "src/components/api-authorization/ApiAuthorizationConstants.js": "13b35e050dc9c3307b97008c975a34d3481f81a504fa793e01f6821da8688a03",
+    "src/components/api-authorization/ApiAuthorizationRoutes.js": "4f237f647ccd6c89a42fd4ed0964569105cfd32c8f08055dbaf27ac042716d39",
+    "src/components/api-authorization/AuthorizeRoute.js": "2f017212037effc259651c2102fd7b9408701d045ca18c399acce89f54c73e58",
+    "src/components/api-authorization/AuthorizeService.js": "2ba5fc47857bf8777b71883616e30e2af41899cae18dc4b6f9de280a0c956e45",
+    "src/components/api-authorization/Login.js": "1e38fcde72fd88fa1c070d8754ba118d10ef894b23d7a78ed5deeae1d9f650f8",
+    "src/components/api-authorization/Logout.js": "061baa3af95cdd762cff54c7233d8242547f815aedc6ab558d0ef70a82313338",
+    "src/components/form/GrantItemForm.js": "e6ec56dbd7607c840f4929a1f8ad2b3f98f2de4459b940dee91d8b4a4a9dce37",
+    "src/components/form/GrantItemModal.js": "d132d73eaee10f02ce79759a1da347d121c58a0eaa6d934e5d0ec432085bec4b",
+    "src/components/form/ItemForm.js": "f80a829b50a82d6069f3537a1e81302f212016acc711074dd75930edef88c6bc",
+    "src/components/form/ItemModal.js": "88e5254afbddd18651982cba03a998c04fa7c4c33cdca1859cdd173ea8fefc0d",
+    "src/components/form/UserForm.js": "bb4c3662908ed4145e0224753fd0e8dfc3f703f75562c0a9b0f0240a79196fde",
+    "src/components/form/UserModal.js": "a860f954b3ad9b5e8917fcef0438b3873c6cac8f616a867fbdb7e601136c0df9",
+    "src/index.js": "a896ba0f1273c4273c308f5db41a6ee9299b72ab3bb78de59bf8b1b53531805f",
+    "src/reportWebVitals.js": "8f739dbe032c8ee46e961c7da50ff9df3c5168e13b3f1894a10b0bf123ff8c28",
+    "src/setupTests.js": "a0b025b2b9df8ec6e2bbaa26937c93209e6cf7f3ce886809ea52e868bfb7fe15"
+  },
+  "indexed_at_commit": "",
+  "indexed_at_timestamp": "2026-03-07T14:38:43.354575+00:00",
+  "schema_version": 3,
+  "stats": {
+    "total_edges": 197,
+    "total_files": 26,
+    "total_nodes": 105
+  },
+  "vexp_version": "1.2.18"
+}
